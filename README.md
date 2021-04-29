@@ -1,3 +1,4 @@
-# epam project
+# EPAM project
 
-You are provided with daily historical sales data. The task is to forecast the total amount of products sold in every shop for the test set. Note that the list of shops and products slightly changes every month. Creating a robust model that can handle such situations is part of the challenge.
+Competition from kaggle: https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data. 
+The task is to forecast the total amount of products sold in every shop for the test set. 
