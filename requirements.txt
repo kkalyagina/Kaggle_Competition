@@ -1,0 +1,15 @@
+pandas 
+numpy 
+matplotlib
+seaborn 
+plotly
+nbformat
+datetime
+sklearn
+collections 
+itertools 
+dateutil
+statsmodels
+warnings
+itertools
+
