@@ -12,4 +12,5 @@ dateutil
 statsmodels
 warnings
 itertools
+setuptools
 
