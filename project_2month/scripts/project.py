@@ -3,15 +3,15 @@ import pandas as pd
 import numpy as np
 from datetime import datetime, date
 import warnings
-from git.utils.eda_methods import barplot
-from git.utils.eda_methods import merge_table
-from git.utils.missing_value import get_mean_na_part
-from git.utils.missing_value import plot_missing_values_heatmap
-from git.utils.missing_value import iterative
-from git.utils.model import model_0
-from git.utils.model import ses
-from git.utils.model import gen_par
-from git.utils.model import sarima
+from modules.eda_methods import barplot
+from modules.eda_methods import merge_table
+from modules.missing_value import get_mean_na_part
+from modules.missing_value import plot_missing_values_heatmap
+from modules.missing_value import iterative
+from modules.model import model_0
+from modules.model import ses
+from modules.model import gen_par
+from modules.model import sarima
 
 #Download dataset
 sales = pd.read_csv("./competitive-data-science-predict-future-sales/sales_train.csv")
