@@ -4,7 +4,7 @@ with open('requirements.txt') as f:
     required = f.read().splitlines()
 
 setuptools.setup(
-    name="project_2month",
+    name="modules",
     version="0.0.1",
     author="Kristina Kaliagina",
     author_email="Kristina_Kaliagina@epam.com",
