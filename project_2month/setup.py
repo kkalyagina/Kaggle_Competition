@@ -10,7 +10,7 @@ setuptools.setup(
     author_email="Kristina_Kaliagina@epam.com",
     description="EPAM project",
     url="https://github.com/kkalyagina/epam.git",
-    packages=['project_2month'],
+    packages=setuptools.find_packages(),
     python_requires='>=3.6',
     install_requires=required
 )
