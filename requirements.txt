@@ -7,8 +7,6 @@ nbformat
 datetime
 sklearn
 collections 
-itertools 
-dateutil
 statsmodels
 warnings
 itertools
